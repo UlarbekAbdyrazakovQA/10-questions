@@ -1,0 +1,9 @@
+import UIKit
+
+var a = 1000
+
+for count in 1..<a{
+    if count % 3 == 0  || count % 5 == 0{
+        print(count)
+    }
+}
