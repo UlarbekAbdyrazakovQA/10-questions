@@ -1,3 +1,6 @@
+
+//lets try to merge two pul request
+
 func isPrime(num:Int)->Bool{
     var n = 2
     //var flag = 0
